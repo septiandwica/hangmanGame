@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore dist directory (build artifacts)
+dist/
+
+# Ignore yarn.lock (optional, if you're using npm instead of Yarn)
+yarn.lock
+
+# Ignore package-lock.json (optional, if you're using Yarn)
+package-lock.json
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore any environment variable files (optional)
+.env
