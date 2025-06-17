@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore dist directory (build artifacts)
-dist/
+
 
 # Ignore yarn.lock (optional, if you're using npm instead of Yarn)
 yarn.lock
